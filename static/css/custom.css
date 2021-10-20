@@ -1,0 +1,8 @@
+.sidebar {
+  background: linear-gradient(180deg, rgba(32,32,32,0.32396708683473385) 0%, rgba(32,32,32,1) 100%),url(https://k48b9e9840-flywheel.netdna-ssl.com/wp-content/uploads/2021/07/alfons-morales-YLSwjSy7stw-unsplash.jpg);
+}
+body {
+  background: url(/img/white-horse.png) bottom right no-repeat, linear-gradient(white, #E2E2E2);
+  background: linear-gradient(white, #E2E2E2);
+  background-attachment: fixed;
+}

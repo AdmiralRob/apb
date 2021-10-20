@@ -1,0 +1,27 @@
+baseURL = 'http://alaskaprintbrokers.com/'
+languageCode = 'en-us'
+title = 'Alaska Print Brokers'
+theme = 'hyde'
+[Params]
+  description = 'Publishing by Alaskans for Alaskans, since 1978.'
+  copyright = "©2021 A subsidiary of Todd Communications."
+  custom_css = ["css/custom.css"]
+[Menus]
+  main = [
+      {Name = "Why Publish With Us", URL = "/why-us/", weight = 100},
+      {Name = "Our History", URL = "/history/", weight = 110},
+      {Name = "Our Work", URL = "/work/", weight = 120},
+      {Name = "Our Services", URL = "/services/", weight = 130},
+      {Name = "Contact Us", URL = "/contact-us/", weight = 140}
+  ]
+[sidebar_menu]
+  mirror = "main"
+[params.social]
+  twitter = "..."
+  email = "..."
+  facebook = "..."
+[params.widgets]
+  header = ["breadcrumbs"]
+  homepage = ["about"]
+  sidebar = ["about","sidebar_menu"]
+  footer = ["social_menu"]
