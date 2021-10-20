@@ -1,4 +1,4 @@
-baseURL = 'http://alaskaprintbrokers.com/'
+baseURL = 'https://admiralrob.github.io/apb/'
 languageCode = 'en-us'
 title = 'Alaska Print Brokers'
 theme = 'hyde'
