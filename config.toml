@@ -15,14 +15,3 @@ publishDir = 'docs'
       {Name = "Our Services", URL = "/services/", weight = 130},
       {Name = "Contact Us", URL = "/contact-us/", weight = 140}
   ]
-[sidebar_menu]
-  mirror = "main"
-[params.social]
-  twitter = "..."
-  email = "..."
-  facebook = "..."
-[params.widgets]
-  header = ["breadcrumbs"]
-  homepage = ["about"]
-  sidebar = ["about","sidebar_menu"]
-  footer = ["social_menu"]
