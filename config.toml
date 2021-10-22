@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Alaska Print Brokers'
 theme = 'hyde'
 publishDir = 'docs'
+enableInlineShortcodes = true
 [Params]
   description = 'Publishing by Alaskans for Alaskans, since 1978.'
   copyright = "©2021 A subsidiary of Todd Communications."

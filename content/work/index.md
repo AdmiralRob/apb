@@ -6,6 +6,8 @@ draft: false
 
 
 ![Alaska Airlines](../img/akairlines.jpg)
+{{% sidenote %}}Lorem Ipsum Dolar Sit Amet{{% /sidenote %}}
+
 ![Land of Salmon](../img/landofsalmon.jpg)
 ![The Nest Egg](../img/nestegg.jpg)
 ![Oh No! We're Gonna Die!](../img/ohno.jpg)
