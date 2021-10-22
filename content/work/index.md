@@ -5,11 +5,9 @@ draft: false
 ---
 
 
-![Alaska Airlines](../img/akairlines.jpg)
-{{% sidenote %}}Lorem Ipsum Dolar Sit Amet{{% /sidenote %}}
-
-![Land of Salmon](../img/landofsalmon.jpg)
-![The Nest Egg](../img/nestegg.jpg)
-![Oh No! We're Gonna Die!](../img/ohno.jpg)
-![Oh No! We're Gonna Die Too!](../img/ohnotwo.jpg)
-![The Raven & The Totem](../img/ravenandtotem.jpg)
+{{% gallery src="../img/akairlines.jpg" alt="Alaska Airlines" %}}Lorem Ipsum Dolar Sit Amet{{% /gallery %}}
+{{% gallery src="../img/landofsalmon.jpg" alt="Land of Salmon" %}}Lorem Ipsum Dolar Sit Amet{{% /gallery %}}
+{{% gallery src="../img/nestegg.jpg" alt="The Nest Egg" %}}Lorem Ipsum Dolar Sit Amet{{% /gallery %}}
+{{% gallery src="../img/ohno.jpg" alt="Oh No! We're Gonna Die!" %}}Lorem Ipsum Dolar Sit Amet{{% /gallery %}}
+{{% gallery src="../img/ohnotwo.jpg" alt="Oh No! We're Gonna Die Too!" %}}Lorem Ipsum Dolar Sit Amet{{% /gallery %}}
+{{% gallery src="../img/ravenandtotem.jpg" alt="The Raven & The Totem" %}}Lorem Ipsum Dolar Sit Amet{{% /gallery %}}

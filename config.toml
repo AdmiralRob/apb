@@ -16,3 +16,7 @@ enableInlineShortcodes = true
       {Name = "Our Services", URL = "/services/", weight = 130},
       {Name = "Contact Us", URL = "/contact-us/", weight = 140}
   ]
+[markup]
+  [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true

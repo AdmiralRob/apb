@@ -6,3 +6,12 @@ body {
   background: linear-gradient(white, #E2E2E2);
   background-attachment: fixed;
 }
+.gallery-image {
+  display:inline;
+  float:right;
+  width: 200px;
+}
+.gallery-item {
+  display:block;
+  clear:both;
+}

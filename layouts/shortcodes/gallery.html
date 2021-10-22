@@ -1,0 +1,8 @@
+<div class="gallery-item">
+  <hr>
+  <img src='{{ .Get "src" }}' alt='{{ .Get "alt" }}' class="gallery-image">
+  <h3>{{ .Get "alt" }}</h3>
+  <div class="gallery-description">
+    {{ .Inner }}
+  </div>
+</div>
